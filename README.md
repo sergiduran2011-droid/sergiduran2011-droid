@@ -41,5 +41,4 @@ I'm a High School Student & Open Source Contributor passionate about **Data Scie
 ---
 
 📫 **How to reach me:**
-* **LinkedIn:** [linkedin.com/in/tu-perfil](#) *(Pon tu enlace aquí)*
 * **Portfolio / Projects:** Check out my repositories below!
