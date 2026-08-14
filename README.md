@@ -1,28 +1,45 @@
-# Hi, I'm Sergi Durán Sabaté! 👋
+# Hi there, I'm Sergi 👋
 
-I'm an aspiring Software Engineer and future CTO. I love solving logical challenges, building robust backend systems, and designing clean user experiences.
-
----
-
-## 🎓 Certifications & Achievements
-
-*   **CS50x: Introduction to Computer Science** – *Harvard University* (Awarded by David J. Malan)
-    *   **Certificate:** [Verify my Harvard CS50x Certificate](https://cs50.harvard.edu/certificates/2f2c973c-bdb1-4f0d-9c44-c5165e9ae8d0) 🏆
-    *   **Skills:** C, Python, SQL, JavaScript, Flask, Algorithms, Memory Management & Data Structures.
+I'm a High School Student & Open Source Contributor passionate about **Data Science**, **Software Engineering**, and **Applied Mathematics**. Currently building open-source tools, competing in STEM Olympiads, and preparing for higher education in Computer Science.
 
 ---
 
-## 🛠️ Featured Project: WeatherPlanner 🌦️
-This is my CS50x Final Project! It is a dynamic web application built with **Flask, SQLite, and Tailwind CSS**.
+### 🚀 Featured Open Source Projects
 
-*   **State Persistence:** Refactored from POST to GET routing to preserve search history seamlessy.
-*   **Thermal Bars:** Built a custom normalization algorithm to render fluid CSS thermal ranges without heavy JS libraries.
-*   **Geolocation:** Integrated browser GPS with Nominatim API (with custom User-Agent policies).
-
+* **[datacleaner-lite](https://github.com/sergiduran2011-droid/datacleaner-lite)**  
+  [![PyPI version](https://badge.fury.io/py/datacleaner-lite.svg)](https://badge.fury.io/py/datacleaner-lite)
+  [![Build Status](https://github.com/sergiduran2011-droid/datacleaner-lite/actions/workflows/publish.yml/badge.svg)](https://github.com/sergiduran2011-droid/datacleaner-lite/actions)
+  *Lightweight Python utilities for cleaning, preprocessing, and reporting CSV datasets.*
 
 ---
 
-## 🧰 Tech Stack
-*   **Languages:** Python, JavaScript, C, SQL, HTML/CSS
-*   **Frameworks & DBs:** Flask, SQLite, Tailwind CSS
-*   **Cloud & Tools:** Git, VS Code
+### 🛠️ Tech Stack & Tools
+
+* **Languages:** Python, C++, SQL, HTML/CSS
+* **Data Science & ML:** Pandas, NumPy, Jupyter, Google Data Analytics
+* **Developer Tools:** Git, GitHub Actions, VS Code, PyPI, LaTeX
+* **Focus Areas:** Algorithm Optimization, Data Pipeline Automation, Competitive Programming
+
+---
+
+### 📜 Certifications & Honors
+
+* **Google Data Analytics Professional Certificate** — Coursera
+* **CS50x: Introduction to Computer Science** — HarvardX
+* **Cambridge C1 Advanced English** *(In Progress)*
+* **High School Debate Club** — Active Speaker
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sergiduran2011-droid&show_icons=true&theme=radial&hide_border=true" alt="Sergi's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiduran2011-droid&layout=compact&theme=radial&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+📫 **How to reach me:**
+* **LinkedIn:** [linkedin.com/in/tu-perfil](#) *(Pon tu enlace aquí)*
+* **Portfolio / Projects:** Check out my repositories below!
