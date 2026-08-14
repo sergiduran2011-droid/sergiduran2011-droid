@@ -27,7 +27,7 @@ I'm a High School Student & Open Source Contributor passionate about **Data Scie
 * **Google Data Analytics Professional Certificate** — Coursera
 * **CS50x: Introduction to Computer Science** — HarvardX
 * **Cambridge C1 Advanced English** *(In Progress)*
-* **High School Debate Club** — Active Speaker
+
 
 ---
 
